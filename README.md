@@ -1,3 +1,3 @@
 # Danny2Forever-Color-page
-This page can change color while you move the cursor.
-<video controls="" autoplay="" name="media"><source src="file:///C:/Users/tea48/Downloads/ezgif-4-c606097713.mp4" type="video/mp4"></video>
+This page can change color while you move the cursor.<br>
+<img src="https://media.discordapp.net/attachments/627202547962347552/1014545467981447168/ezgif-4-5bc6b664b5.gif">
