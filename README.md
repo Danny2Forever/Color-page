@@ -1,4 +1,4 @@
-# Danny2Forever-Color-page
+# Color_Change_Page
 > Just a cool page that can change blackground color while cursor is moving.
 <h2>Initial version</h2>
 
